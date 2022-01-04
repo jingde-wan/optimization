@@ -1,4 +1,4 @@
-# optimization
+# Optimization
 
 COMP SCI 524: Introduction to Optimization
 
